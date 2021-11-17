@@ -1,6 +1,6 @@
 {
   "name": "synlink-pdu",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "SynLink HTTP(S) API Wrapper",
   "main": "index.js",
   "scripts": {
