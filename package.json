@@ -1,0 +1,25 @@
+{
+  "name": "synlink-pdu",
+  "version": "1.0.0",
+  "description": "SynLink HTTP(S) API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synaccess/SynLink-PDU-NodeJS-API.git"
+  },
+  "keywords": [
+    "pdu",
+    "api",
+    "synlink",
+    "synaccess"
+  ],
+  "author": "Synaccess Support",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synaccess/SynLink-PDU-NodeJS-API/issues"
+  },
+  "homepage": "https://github.com/synaccess/SynLink-PDU-NodeJS-API#readme"
+}
