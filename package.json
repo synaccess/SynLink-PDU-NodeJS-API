@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/synaccess/SynLink-PDU-NodeJS-API/issues"
   },
-  "homepage": "https://github.com/synaccess/SynLink-PDU-NodeJS-API#readme"
+  "homepage": "https://github.com/synaccess/SynLink-PDU-NodeJS-API#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
